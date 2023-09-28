@@ -1,0 +1,11 @@
+ body{background-color: rgb(16, 122, 172);}
+ h1{
+    color: white;
+    background-color: blue;
+    text-align: center;
+}
+ul a{
+    color: rgb(138, 19, 19);
+    background-color: yellow;   
+}
+#pics{ border: 5px solid black;}
